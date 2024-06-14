@@ -1,0 +1,36 @@
+1. Visit telerik website/docs
+2. Installed telerik ui trial (for 30 days) [shantuingale03@gmail.com]
+3. After install, we got some shortcuts to ui's.
+4. Opened Progress Control Panel to add Nugget packages for core app
+
+5. Created Asp .Net Web app MVC
+6. Sol (right click)-> Manage Nugget Package ->
+	i. Telerik.UI.for.ASPNET.CORE.Trial
+
+7. In program.cs
+var builder=WebApplication.CreateBuilder(args); (below this)
+// Add Kendo UI services to the services container.
+builder.Services.AddKendo();
+
+8. In _ViewImports.cshtml
+@using PracticeForTelerickUI01
+@using PracticeForTelerickUI01.Models
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@addTagHelper *, Kendo.Mvc
+@using Kendo.Mvc.UI
+
+9. In _Layout.cshtml
+<head>
+...
+@* Add the Kendo Bootstrap theme: *@
+<link rel="stylesheet" href="https://kendo.cdn.telerik.com/themes/8.0.1/bootstrap/bootstrap-main.css" />
+
+@* Add the jQuery script from the jQuery CDN: *@
+<script src="https://code.jquery.com/jquery-3.7.0.min.js"></script>
+
+@* Add the Kendo UI scripts: *@
+<script src="https://kendo.cdn.telerik.com/2024.2.514/js/kendo.all.min.js"></script>
+<script src="https://kendo.cdn.telerik.com/2024.2.514/js/kendo.aspnetmvc.min.js"></script>
+...
+</head>
+

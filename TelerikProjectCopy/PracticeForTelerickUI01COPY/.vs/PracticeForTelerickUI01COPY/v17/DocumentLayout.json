@@ -1,0 +1,154 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kanaka\\Desktop\\TelerikProjectCopy\\PracticeForTelerickUI01COPY\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FCEFD7F3-DE4E-44AA-A845-ABB6DA098A0C}|PracticeForTelerickUI01COPY.csproj|c:\\users\\kanaka\\desktop\\telerikprojectcopy\\practicefortelerickui01copy\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FCEFD7F3-DE4E-44AA-A845-ABB6DA098A0C}|PracticeForTelerickUI01COPY.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCEFD7F3-DE4E-44AA-A845-ABB6DA098A0C}|PracticeForTelerickUI01COPY.csproj|c:\\users\\kanaka\\desktop\\telerikprojectcopy\\practicefortelerickui01copy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCEFD7F3-DE4E-44AA-A845-ABB6DA098A0C}|PracticeForTelerickUI01COPY.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCEFD7F3-DE4E-44AA-A845-ABB6DA098A0C}|PracticeForTelerickUI01COPY.csproj|c:\\users\\kanaka\\desktop\\telerikprojectcopy\\practicefortelerickui01copy\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FCEFD7F3-DE4E-44AA-A845-ABB6DA098A0C}|PracticeForTelerickUI01COPY.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCEFD7F3-DE4E-44AA-A845-ABB6DA098A0C}|PracticeForTelerickUI01COPY.csproj|c:\\users\\kanaka\\desktop\\telerikprojectcopy\\practicefortelerickui01copy\\repository\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCEFD7F3-DE4E-44AA-A845-ABB6DA098A0C}|PracticeForTelerickUI01COPY.csproj|solutionrelative:repository\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCEFD7F3-DE4E-44AA-A845-ABB6DA098A0C}|PracticeForTelerickUI01COPY.csproj|c:\\users\\kanaka\\desktop\\telerikprojectcopy\\practicefortelerickui01copy\\repository\\interface\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCEFD7F3-DE4E-44AA-A845-ABB6DA098A0C}|PracticeForTelerickUI01COPY.csproj|solutionrelative:repository\\interface\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCEFD7F3-DE4E-44AA-A845-ABB6DA098A0C}|PracticeForTelerickUI01COPY.csproj|c:\\users\\kanaka\\desktop\\telerikprojectcopy\\practicefortelerickui01copy\\repository\\efcore\\bookdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCEFD7F3-DE4E-44AA-A845-ABB6DA098A0C}|PracticeForTelerickUI01COPY.csproj|solutionrelative:repository\\efcore\\bookdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCEFD7F3-DE4E-44AA-A845-ABB6DA098A0C}|PracticeForTelerickUI01COPY.csproj|c:\\users\\kanaka\\desktop\\telerikprojectcopy\\practicefortelerickui01copy\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCEFD7F3-DE4E-44AA-A845-ABB6DA098A0C}|PracticeForTelerickUI01COPY.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCEFD7F3-DE4E-44AA-A845-ABB6DA098A0C}|PracticeForTelerickUI01COPY.csproj|c:\\users\\kanaka\\desktop\\telerikprojectcopy\\practicefortelerickui01copy\\logs\\log-20240612.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{FCEFD7F3-DE4E-44AA-A845-ABB6DA098A0C}|PracticeForTelerickUI01COPY.csproj|solutionrelative:logs\\log-20240612.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\kanaka\\Desktop\\TelerikProjectCopy\\PracticeForTelerickUI01COPY\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\kanaka\\Desktop\\TelerikProjectCopy\\PracticeForTelerickUI01COPY\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-14T07:00:35.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kanaka\\Desktop\\TelerikProjectCopy\\PracticeForTelerickUI01COPY\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\kanaka\\Desktop\\TelerikProjectCopy\\PracticeForTelerickUI01COPY\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T06:31:17.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\kanaka\\Desktop\\TelerikProjectCopy\\PracticeForTelerickUI01COPY\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\kanaka\\Desktop\\TelerikProjectCopy\\PracticeForTelerickUI01COPY\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACYAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-14T06:29:16.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IBookRepository.cs",
+              "DocumentMoniker": "C:\\Users\\kanaka\\Desktop\\TelerikProjectCopy\\PracticeForTelerickUI01COPY\\Repository\\Interface\\IBookRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Interface\\IBookRepository.cs",
+              "ToolTip": "C:\\Users\\kanaka\\Desktop\\TelerikProjectCopy\\PracticeForTelerickUI01COPY\\Repository\\Interface\\IBookRepository.cs",
+              "RelativeToolTip": "Repository\\Interface\\IBookRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T06:21:27.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BookDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\kanaka\\Desktop\\TelerikProjectCopy\\PracticeForTelerickUI01COPY\\Repository\\EFCore\\BookDbContext.cs",
+              "RelativeDocumentMoniker": "Repository\\EFCore\\BookDbContext.cs",
+              "ToolTip": "C:\\Users\\kanaka\\Desktop\\TelerikProjectCopy\\PracticeForTelerickUI01COPY\\Repository\\EFCore\\BookDbContext.cs",
+              "RelativeToolTip": "Repository\\EFCore\\BookDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T06:17:33.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "log-20240612.txt",
+              "DocumentMoniker": "C:\\Users\\kanaka\\Desktop\\TelerikProjectCopy\\PracticeForTelerickUI01COPY\\logs\\log-20240612.txt",
+              "RelativeDocumentMoniker": "logs\\log-20240612.txt",
+              "ToolTip": "C:\\Users\\kanaka\\Desktop\\TelerikProjectCopy\\PracticeForTelerickUI01COPY\\logs\\log-20240612.txt",
+              "RelativeToolTip": "logs\\log-20240612.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-06-12T16:54:29.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\kanaka\\Desktop\\TelerikProjectCopy\\PracticeForTelerickUI01COPY\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\kanaka\\Desktop\\TelerikProjectCopy\\PracticeForTelerickUI01COPY\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwCoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T16:49:56.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BookService.cs",
+              "DocumentMoniker": "C:\\Users\\kanaka\\Desktop\\TelerikProjectCopy\\PracticeForTelerickUI01COPY\\Repository\\BookService.cs",
+              "RelativeDocumentMoniker": "Repository\\BookService.cs",
+              "ToolTip": "C:\\Users\\kanaka\\Desktop\\TelerikProjectCopy\\PracticeForTelerickUI01COPY\\Repository\\BookService.cs",
+              "RelativeToolTip": "Repository\\BookService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T16:46:48.687Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

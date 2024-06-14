@@ -1,0 +1,72 @@
+1. Through nugget package manager console add packages
+
+Install-Package Serilog
+Install-Package Serilog.AspNetCore
+Install-Package Serilog.Sinks.Console
+Install-Package Serilog.Sinks.File
+
+
+2. In program.cs below addscoped add
+//Serilog requirement
+builder.Host.UseSerilog((context, configuration) =>
+    configuration.ReadFrom.Configuration(context.Configuration)
+);
+
+3. In program.cs above app.UseHttpsRedirection(); add
+app.UseSerilogRequestLogging();
+
+
+4. In appsettings.json we have
+"Logging": {
+  "LogLevel": {
+    "Default": "Information",
+    "Microsoft.AspNetCore": "Warning"
+  }
+},
+Replace it by
+"Serilog": {
+  "Using": [ "Serilog.Sinks.Console", "Serilog.Sinks.File" ],
+  "MinimumLevel": {
+    "Default": "Debug",
+    "Override": {
+      "Microsoft": "Information",
+      "System": "Information"
+    }
+  },
+  "WriteTo": [
+    { "Name": "Console" },
+    {
+      "Name": "File",
+      "Args": {
+        "path": "logs/log-.txt",
+        "rollingInterval": "Day",
+        "rollOnFileSizeLimit": true,
+        "formatter": "Serilog.Formatting.Json.JsonFormatter"
+      }
+    }
+  ],
+  "Enrich": [ "FromLogContext", "WithMachineName", "WithThreadId" ]
+},
+
+
+
+5. Now for each controller u need to specify logger with a specifies suppose the controller's name itself
+Suppose for HomeController.cs its
+
+private readonly IBookRepository bookRepository;
+private readonly ILogger<HomeController> logger; // to access logging functionalities
+public HomeController(IBookRepository bookRepository, ILogger<HomeController> logger)
+{
+    this.bookRepository = bookRepository;
+    this.logger = logger;
+}
+
+use like
+public IActionResult Index()
+{
+    logger.LogInformation("Home Page (Home/Index) is accessed here");
+    return View();
+}
+it have LogInformation, LogError ...
+
+can check logs in logs/logs-.text
